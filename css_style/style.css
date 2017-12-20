@@ -1,0 +1,81 @@
+.one{
+	width: 100%;
+	height: 30px;
+	background: #282828;
+}
+.logo{
+	float: left;
+	font-size: 1.5em;
+	color: #ededed;
+	margin-left: 10px;
+}
+ul{	
+	font-size: 1em;
+	height: 50px;
+	list-style-type: none;
+	color: #ededed;
+
+}
+
+li{	
+	float: right;
+	display: inline-block;
+	padding: 0px 6px;
+	margin-right: 6px;
+	border-left: 1px solid #ededed;
+	height: 30px;
+
+}
+.two{
+	width: 100%;
+	height: 500px;
+	font-size: 6em;
+	background: gray;
+	color: #c2c3c4;
+	text-align: center;
+	
+}
+.four{
+	width: 100%;
+	
+}
+.first{
+	
+	font-size: 5em;
+	margin-left: 10px;
+	width: 28%;
+	height: 200px;
+	background:gray;
+	cursor: pointer;
+	text-align: center;
+	display: inline-block;
+	color: #c2c3c4;
+	
+	
+}
+.second{
+	font-size: 5em;
+    width: 28%;
+    height: 200px;
+    margin-left: 538px;
+    margin-bottom: -452px;
+    display: inline-block;
+    cursor: pointer;
+    color: #c2c3c4;
+    background: gray;
+    float: left;
+    text-align: center;
+}
+.third{
+	
+	font-size: 5em;
+	width: 28%;
+	height: 200px;
+	margin-right: 10px;
+	float: right;
+	background:gray;
+	text-align: center;
+	color: #c2c3c4;
+	display: inline-block;
+	cursor: pointer;
+}
